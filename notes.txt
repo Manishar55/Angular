@@ -1,0 +1,3 @@
+Angular: 
+-> Angular is a popular open-source web application framework developed by Google. it's used for building dynamic, 
+single-page web applications (SPAs) and mobile applications.
